@@ -1,0 +1,6 @@
+{
+  "name": "Smurfit Westrock | Monitoreo de Vibraciones - Sección de Secado",
+  "description": "Aplicativo corporativo Smurfit Westrock Packaging Solutions para el seguimiento técnico de instalación y monitoreo de vibraciones en 82 rodillos de la máquina papelera.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
